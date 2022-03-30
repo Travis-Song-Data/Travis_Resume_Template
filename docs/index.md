@@ -28,7 +28,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Internships
 
 `July 2021- Dec 2021`
-__Data Annotator__,Research and Business Development Center for [Levvel 3D]
+__Data Annotator__, Research and Business Development Center for [Levvel 3D]
 
 - Annotated 3D cloud-point files of warehouses to create virtual model
 - Identified and reported to software team about bugs and other software issues
@@ -48,7 +48,7 @@ __Student machine learning consultant__, Research and Business Development Cente
 
 
 `Jan 2022 - March 2022`
-__Web Data Extractor__,BYU-I Data Science Society
+__Web Data Extractor__, BYU-I Data Science Society
 
 - Researching Selenium WebDriver
 - Implementing Selenium WebDriver using python 
@@ -63,7 +63,7 @@ __Data Specialist__, BYU-Idaho Online Instruction
 - Analyzed datasets using pandas and created charts using Altair
 
 `Jul 2016 – Jul 2018 `
-__Singapore Army (No intent of continuing)__, 
+__Clerk__, Singapore Army (No intent of continuing)
 
 - Delegated instruction to facilitate cleaning of filing room
 - Catalogued and organized the filing room with Excel spreadsheet
