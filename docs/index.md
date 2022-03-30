@@ -50,8 +50,8 @@ __Student machine learning consultant__, Research and Business Development Cente
 `Jan 2022 - March 2022`
 __Web Data Extractor__, BYU-I Data Science Society
 
-- Researching Selenium WebDriver
-- Implementing Selenium WebDriver using python 
+- Researched Selenium WebDriver
+- Implemented Selenium WebDriver using python 
 
 ## Service and Work History
 
