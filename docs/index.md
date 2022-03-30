@@ -3,7 +3,7 @@ layout: resume
 title: Travis Song's Resume
 ---
 # Travis Song's Resume
-The future of Machine Learning Engineer 
+The Future of  a Machine Learning Engineer 
 
 <div id="webaddress">
 <a href="travissongjianwei@gmail.com">travissongjianwei@gmail.com</a>
@@ -19,7 +19,7 @@ The future of Machine Learning Engineer
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 3.8 Major GPA
-- Minor in Business Analytics
+- Minor in Business Analytics (what's your major??)
 - Relevant Courses: Data Wrangling and Visualization, Appl Calculus for Data Analysis, Applied Linear Regression, Intermediate Statistics, Machine Learning
 
 ## Related Experience
@@ -30,8 +30,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Research and Business Development Center for [Levvel 3D]__, 
 
 - Annotated 3D cloud-point files of warehouses to create virtual model
-- Report to software team about bugs and other software issues
-- Analyze and collaborate to fix bugs in python 
+- Identified and reported to software team about bugs and other software issues
+- Analyzed and collaborated with cross-functional team to fix bugs in python and document results
 
 `Jan 2022 -`
 __Machine Learning Engineer__, Homeowner Insights
@@ -42,7 +42,7 @@ __Machine Learning Engineer__, Homeowner Insights
 `Jan 2022 - `
 __Research and Business Development Center for [Lyteworx] Current__
 
-- Analyzing Machine Learning models for Natural Language Processing project
+- Analyzed Machine Learning models for Natural Language Processing project
 - Implemented solutions to create and wrangle raw data with an improved efficiency of 25%
 
 
