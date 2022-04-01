@@ -43,8 +43,8 @@ __Machine Learning Engineer__, Homeowner Insights
 `Jan 2022 - `
 __Student machine learning consultant__, Research and Business Development Center for [Lyteworx] Current
 
-- Analyzed Machine Learning models for Natural Language Processing project
-- Implemented solutions to create and wrangle raw data with an improved efficiency of 25%
+- Analyzed Machine Learning models - Natural Language Processing project
+- Improved data wrangling processing efficiency by 25%%
 
 
 `Jan 2022 - March 2022`
@@ -67,7 +67,14 @@ __Clerk__, Singapore Army (No intent of continuing)
 
 - Delegated instruction to facilitate cleaning of filing room
 - Catalogued and organized the filing room with Excel spreadsheet
-- Abled to apply Singapore’s army regimentation and flexibility to meet deadlines with precision
+- Adaptable to the Singapore’s army strict regimentation and flexibility to meet deadlines with precision
+
+### REGIONAL COMMUNITY SERVICE
+`Jan 2016 – Jan 2016`
+__Volunteer__, YOUTH EXPEDITION GROUP
+- Hosted daily meetings to enhance the program for the welfare of the children
+- Handled the day-to-day housekeeping activity for the orphanage home
+
 
 ### Skills
 
